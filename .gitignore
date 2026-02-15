@@ -21,12 +21,6 @@ var/
 wheels/
 *.egg-info/
 
-# --- Model Artifacts ---
-# Note: You usually DO want to include the .joblib file for a submission 
-# so the interviewers can run it immediately. 
-# However, if it were >100MB, you would ignore it and use Git LFS.
-# For now, we leave it UNIGNORED.
-
 # --- OS Specific ---
 .DS_Store
 Thumbs.db
