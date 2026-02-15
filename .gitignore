@@ -1,0 +1,42 @@
+# --- Python Specific ---
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# --- Environment & Credentials ---
+.env
+.venv/
+venv/
+env/
+bin/
+lib/
+develop-eggs/
+dist/
+eggs/
+installed.py
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+
+# --- Model Artifacts ---
+# Note: You usually DO want to include the .joblib file for a submission 
+# so the interviewers can run it immediately. 
+# However, if it were >100MB, you would ignore it and use Git LFS.
+# For now, we leave it UNIGNORED.
+
+# --- OS Specific ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- IDE Specific ---
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- Logs & Temporary Files ---
+*.log
