@@ -15,7 +15,7 @@ The project is organized as follows:
   - `main.py`: The entry point for the REST API.
   - `src/`: Source code for routes and model logic.
   - `superhero_model.joblib`: serialized model.
-- **`model_development/`**: Contains Jupyter notebooks used for Exploratory Data Analysis (EDA), model development, and hyperparameter tuning.
+- **`model_development/`**: Contains Jupyter notebooks used for Exploratory Data Analysis (EDA), model development, and hyperparameter tuning. It also included the predicted_annual_public_destruction_events as required by the task. 
 - **`report/`**: Contains the final report (PDF) detailing the experimental procedure, results, and deployment strategy.
 - **`streamlit_app.py`**: A Streamlit web application that provides a user-friendly UI for interacting with the prediction model.
 - **`requirements.txt`**: List of Python dependencies required to run the project.
@@ -77,4 +77,5 @@ jupyter notebook model_development/
 ## Contact
 **Candidate**: Armand de Wet | armand.dewet40@gmail.com
 **Date**: 2026-02-11
+
 
