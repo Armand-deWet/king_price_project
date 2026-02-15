@@ -75,5 +75,6 @@ jupyter notebook model_development/
 - **Note**: The Streamlit application was developed as an extra feature to demonstrate commitment to providing a complete solution.
 
 ## Contact
-**Candidate**: Armand de Wet
+**Candidate**: Armand de Wet | armand.dewet40@gmail.com
 **Date**: 2026-02-11
+
