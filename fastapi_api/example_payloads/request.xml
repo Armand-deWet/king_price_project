@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<superhero>
+    <Name>Achilles</Name>
+    <CreditScore>160</CreditScore>
+    <DateOfBirth>1948-11-24</DateOfBirth>
+    <SuperPowers>
+        <item>flight</item>
+        <item>flight</item>
+        <item>intelligence</item>
+    </SuperPowers>
+    <CreditCards>
+        <item>
+            <Bank>A.I.M. Bank</Bank>
+            <CreditLimit>84847</CreditLimit>
+            <DateOpened>2017-05-24</DateOpened>
+        </item>
+        <item>
+            <Bank>Parker Industries Bank</Bank>
+            <CreditLimit>93447</CreditLimit>
+            <DateOpened>2023-01-03</DateOpened>
+        </item>
+    </CreditCards>
+    <PropertiesOwnedBySuperhero>
+        <item>812 Rivendell Hill</item>
+        <item>914 Shangri-La Hill</item>
+        <item>549 Florin Road</item>
+        <item>873 Camelot Terrace</item>
+    </PropertiesOwnedBySuperhero>
+</superhero>
