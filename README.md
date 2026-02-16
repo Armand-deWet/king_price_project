@@ -11,7 +11,7 @@ You are a data scientist at a Marvel Universe insurance company, "Public Destruc
 
 The project is organized as follows:
 
-- **`fastapi_api/`**: Contains the production-ready FastAPI application and the trained regression model. It also contains and example request.xml and response.json file.
+- **`fastapi_api/`**: Contains the production-ready FastAPI application and the trained regression model. It also contains an example request.xml and response.json file.
   - `main.py`: The entry point for the REST API.
   - `src/`: Source code for routes and model logic.
   - `superhero_model.joblib`: serialized model.
